@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm studying Data Analysis and Coding. Passionate by data technologies, I'm ambitionning to become data scientist.</div>
 
-Here are some ideas to get you started:
+What you should know about me :
 
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning how to use dash and poltly to create web interface for data analysis reports.
